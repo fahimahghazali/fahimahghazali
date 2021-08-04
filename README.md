@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fahimahghazali
+- hiya! @fahimahghazali here
 - 👀 I’m interested in insurance (exactly why I'm currently takin actuarial science in uni)
 - 🌱 I’m currently a beginner in coding on Python, coming from R
-- 💞️ I’m looking to collaborate on data analysis
+- 💞️ Collaborate with me on data analysis on my projects, would love to hear different takes
 - 📫 Reach me through my email fahimahghazali@icloud.com
 
 <!---
